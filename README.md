@@ -1,9 +1,8 @@
-<img style = "display: block;" src = "prathamesh zingade.png" />
 <h1 align="center">Hey👋, Myself Prathamesh Zingade</h1>
 <h3 align="center">A Programmer learning to combine the power of DSA & Development!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zingadeprathamesh" alt="zingadeprathamesh" /></a> </p>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FlaDg4b2M2dGZodnRpbXlza3I5MGNnemMxcWN2Z3lvdzVvNGNlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="320" align ="right" class="giphy-embed"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FlaDg4b2M2dGZodnRpbXlza3I5MGNnemMxcWN2Z3lvdzVvNGNlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="264" align ="right" class="giphy-embed"/>
 
 - 🔭 I’m currently working on [Web Applications & REST API](https://github.com/ZingadePrathamesh/EventManager)
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **zingadeprathamesh12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1paB4L521OtrmCdKq-x3qFki9I-7QfxJpvssA_UYs1GI/edit?usp=sharing](https://docs.google.com/document/d/1paB4L521OtrmCdKq-x3qFki9I-7QfxJpvssA_UYs1GI/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1paB4L521OtrmCdKq-x3qFki9I-7QfxJpvssA_UYs1GI/edit?usp=sharing](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
