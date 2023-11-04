@@ -10,7 +10,7 @@
 
 - 👯 I’m also the vice president of [Ad Astra Club](https://www.linkedin.com/company/adastraofficial/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/prathamesh-zingade/](https://www.linkedin.com/in/prathamesh-zingade/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/prathamesh-zingade/)
 
 - 💬 Ask me about **JAVA, MySQL, Spring**
 
