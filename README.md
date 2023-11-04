@@ -3,7 +3,7 @@
 <h3 align="center">A Programmer learning to combine the power of DSA & Development!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zingadeprathamesh" alt="zingadeprathamesh" /></a> </p>
-<img align ="right" alt = "coding" src= "https://art.pixilart.com/sr2712ab0b35ecd.gif" />
+<img align ="right" alt = "coding" width="400px" src= "https://art.pixilart.com/sr2712ab0b35ecd.gif" />
 
 - 🔭 I’m currently working on [Web Applications & REST API](https://github.com/ZingadePrathamesh/EventManager)
 
