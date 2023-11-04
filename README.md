@@ -3,7 +3,7 @@
 <h3 align="center">A Programmer learning to combine the power of DSA & Development!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zingadeprathamesh" alt="zingadeprathamesh" /></a> </p>
-<img src="[https://giphy.com/embed/Ll22OhMLAlVDb8UQWe](https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe)" width="400" height="480" frameBorder="0" class="giphy-embed"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FlaDg4b2M2dGZodnRpbXlza3I5MGNnemMxcWN2Z3lvdzVvNGNlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="360" align ="right" class="giphy-embed"/>
 
 - 🔭 I’m currently working on [Web Applications & REST API](https://github.com/ZingadePrathamesh/EventManager)
 
