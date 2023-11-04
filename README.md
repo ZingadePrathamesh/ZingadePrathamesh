@@ -1,9 +1,9 @@
-<img style = "display: block;" src = "As a programmer, we are not bound by the laws of physics. we bend them with our code!.png" />
+<img style = "display: block;" src = "prathamesh zingade.png" />
 <h1 align="center">Hey👋, Myself Prathamesh Zingade</h1>
 <h3 align="center">A Programmer learning to combine the power of DSA & Development!</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zingadeprathamesh" alt="zingadeprathamesh" /></a> </p>
-<img align ="right" alt = "coding" width="400px" src= "https://art.pixilart.com/sr2712ab0b35ecd.gif" />
+<iframe src="https://giphy.com/embed/Ll22OhMLAlVDb8UQWe" width="400" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">via GIPHY</a></p>
 
 - 🔭 I’m currently working on [Web Applications & REST API](https://github.com/ZingadePrathamesh/EventManager)
 
