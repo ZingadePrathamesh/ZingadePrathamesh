@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFzKK_mCuc/NivLU8GOyin1aof6KtYr5A/edit?utm_content=DAFzKK_mCuc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+<img style = "display: block;" src = "As a programmer, we are not bound by the laws of physics. we bend them with our code!.png" />
 <h1 align="center">Hey👋, Myself Prathamesh Zingade</h1>
 <h3 align="center">A Programmer learning to combine the power of DSA & Development!</h3>
 
