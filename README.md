@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **zingadeprathamesh12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1paB4L521OtrmCdKq-x3qFki9I-7QfxJpvssA_UYs1GI/edit?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1paB4L521OtrmCdKq-x3qFki9I-7QfxJpvssA_UYs1GI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
