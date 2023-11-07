@@ -1,8 +1,3 @@
-<style>
-img{
-margin:10px;
-}
-</style>
 
 <h1 align="center">Hello! Myself Prathamesh Zingade</h1>
 <h3 align="center">Learning something feels so energizing!</h3>
@@ -23,9 +18,9 @@ margin:10px;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prathameshz2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathameshz2002" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prathamesh zingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh zingade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prathamesh_zingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamesh_zingade" height="30" width="40" /></a>
+<a href="https://twitter.com/prathameshz2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prathameshz2002" height="30" width="40" style = "margin-right: 4;" /></a>
+<a href="https://linkedin.com/in/prathamesh zingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh zingade" height="30" width="40" style = "margin-right: 4;"/></a>
+<a href="https://www.leetcode.com/prathamesh_zingade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamesh_zingade" height="30" width="40" style = "margin-right: 4;" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
