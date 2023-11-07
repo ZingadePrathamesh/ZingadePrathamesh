@@ -33,3 +33,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zingadeprathamesh&show_icons=true&locale=en" alt="zingadeprathamesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zingadeprathamesh&" alt="zingadeprathamesh" /></p>
+
+<style>
+  p a {
+    margin-right: 10px; /* Add the desired spacing here */
+  }
+</style>
