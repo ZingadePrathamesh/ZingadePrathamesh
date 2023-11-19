@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! Myself Prathamesh Zingade</h1>
+<h1 margin="10" align="center">Hello! Myself Prathamesh Zingade</h1>
 <h3 align="center">Learning something feels so energizing!</h3>
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FlaDg4b2M2dGZodnRpbXlza3I5MGNnemMxcWN2Z3lvdzVvNGNlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif" width="264" align ="right" class="giphy-embed"/>
